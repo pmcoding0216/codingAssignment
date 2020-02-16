@@ -1,0 +1,17 @@
+{
+  "name": "pm-coding-html2pdf",
+  "version": "1.0.0",
+  "description": "Serverless html2pdf exposing a REST HTTP interface",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "chrome-aws-lambda": "^2.1.1",
+    "puppeteer-core": "^2.1.1"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0"
+  },
+  "scripts": {
+    "lint": "eslint html2pdf"
+  }
+}
